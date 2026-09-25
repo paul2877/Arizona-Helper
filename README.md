@@ -18,6 +18,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/paul2877/Arizona-Helper/releases/download/v2.0/Arizona_MoonLoader_Installer.exe">
+    <img src="https://img.shields.io/badge/⚡%20Скачать%20Установщик-.exe%20(12%20MB)-brightgreen?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Установщик" />
+  </a>
+</p>
+
+<p align="center">
   <a href="#-быстрый-старт-и-авто-установка"><b>🚀 Установка</b></a> •
   <a href="#-интеллектуальные-модули-и-ии">🧠 Нейросеть и AI</a> •
   <a href="#-функционал-для-мю-и-гос-структур">👮 Функционал МЮ</a> •
@@ -35,7 +41,7 @@
 
 Комплекс оснащен полностью автономным графическим установщиком на Python. Установка выполняется в **1 клик** без необходимости вручную переносить файлы или устанавливать сторонние архиваторы:
 
-1. Запустите файл **`Установщик_MoonLoader_Arizona.exe`** (или `Установщик_MoonLoader_Arizona.bat`).
+1. Скачайте **[Arizona_MoonLoader_Installer.exe](https://github.com/paul2877/Arizona-Helper/releases/download/v2.0/Arizona_MoonLoader_Installer.exe)** из раздела Releases и запустите его.
 2. Установщик автоматически определит папку с игрой из реестра Windows (`Arizona Games Launcher` / `SAMP`).
 3. При необходимости выберите папку вручную через кнопку **«Обзор...»**.
 4. Нажмите **«🚀 Установить»** — установщик скачает чистый релизный архив с GitHub и распакует все файлы средствами встроенных библиотек Python (`tarfile` / `lzma`) с отображением живого прогресса каждого файла.
